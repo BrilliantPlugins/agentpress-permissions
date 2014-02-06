@@ -50,7 +50,7 @@ function agentpress_listings_caps() {
     
     // Nope? Let's create it
     if( !$list_man )
-    	$list_man = add_role( 'listings_manager', __( 'Listings Manger' ) );
+    	$list_man = add_role( 'listings_manager', __( 'Listings Manager' ) );
 
 	// Add core capabilities
     $list_man->add_cap( 'read' ); // admin access
