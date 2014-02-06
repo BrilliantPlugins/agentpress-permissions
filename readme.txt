@@ -2,7 +2,7 @@
 Contributors: nickciske
 Donate link: http://thoughtrefinery.com/donate/?item=agentpress-permissions
 Tags: agentpress, permissions, capability, custom role
-Requires at least: 3.8
+Requires at least: 3.5
 Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
@@ -34,13 +34,16 @@ Does not include any role management features. -- you can use a role manager plu
 
 == Frequently Asked Questions ==
 
-= No questions yet... =
+= Does this only work in the WordPress admin? =
 
-That's not a question...
+Correct. If you want to restict access to listings on the front end of your site:
+* Use the password protection feature built into WordPress
+* Use a members plugin (like [Members](http://wordpress.org/plugins/members/) which also has a role manager function) or another plugin designed for this purpose
 
 == Screenshots ==
 
-None yet.
+1. The Listings Manager role added by the plugin
+2. Managing the custom capbilties added (using the role manager in the Members plugin)
 
 == Changelog ==
 
