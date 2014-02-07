@@ -13,7 +13,7 @@ PLUGINSLUG="agentpress-permissions";
 # main config, set off of plugin slug
 CURRENTDIR=`pwd`
 #CURRENTDIR="$CURRENTDIR/$PLUGINSLUG"
-MAINFILE="salesforce.php" # this should be the name of your main php file in the wordpress plugin
+MAINFILE="$PLUGINSLUG.php" # this should be the name of your main php file in the wordpress plugin
 
 # git config
 GITPATH="$CURRENTDIR" # this file should be in the base of your git repository
