@@ -4,7 +4,7 @@ Donate link: http://thoughtrefinery.com/donate/?item=agentpress-permissions
 Tags: agentpress, permissions, capability, custom role
 Requires at least: 3.5
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,9 +47,12 @@ Correct. If you want to restict access to listings on the front end of your site
 == Screenshots ==
 
 1. The Listings Manager role added by the plugin
-2. Managing the custom capbilties added (using the role manager in the Members plugin)
+2. Managing the custom capabilties added (using the role manager in the Members plugin)
 
 == Changelog ==
+
+= 1.0.1 =
+* Fix inevitable typos
 
 = 1.0 =
 * Initial Release

@@ -4,7 +4,7 @@ Plugin Name: AgentPress Permissions
 Plugin URI: http://wordpress.org/plugins/agentpress-permissions/
 Description: Enable custom capabilities for AgentPress 
 Author: Nick Ciske (ThoughtRefinery)
-Version: 1.0
+Version: 1.0.1
 Author URI: http://thoughtrefinery.com/
 */
 
