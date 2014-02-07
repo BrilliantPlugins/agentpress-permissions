@@ -18,14 +18,18 @@ Also adds a Listings Manager role that can only manage listings (no other post t
 
 Does not include any role management features. -- you can use a role manager plugin (or code) to manage the custom capabilities added by this plugin.
 
-### Requires:
+### Requires
 
 *   [AgentPress Listings](http://wordpress.org/plugins/agentpress-listings/)
 *   StudioPress [Genesis](http://bit.ly/LBYT6f) based theme - required by AgentPress Listings
 
-### Recommended:
+### Recommended
 
 *   A role manager plugin like  [Members](http://wordpress.org/plugins/members/), [User Role Editor](http://wordpress.org/plugins/user-role-editor/)
+
+### Credits
+
+Comissioned by [e10](http://e10inc.com)
 
 == Installation ==
 
