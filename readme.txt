@@ -21,7 +21,7 @@ Does not include any role management features. -- you can use a role manager plu
 ### Requires
 
 *   [AgentPress Listings](http://wordpress.org/plugins/agentpress-listings/)
-*   StudioPress [Genesis](http://bit.ly/LBYT6f) based theme - required by AgentPress Listings
+*   [Genesis](http://bit.ly/LBYT6f) based theme - required by AgentPress Listings
 
 ### Recommended
 
