@@ -41,6 +41,7 @@ Comissioned by [e10](http://e10inc.com)
 = Does this only work in the WordPress admin? =
 
 Correct. If you want to restict access to listings on the front end of your site:
+
 * Use the password protection feature built into WordPress
 * Use a members plugin (like [Members](http://wordpress.org/plugins/members/) which also has a role manager function) or another plugin designed for this purpose
 
